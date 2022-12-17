@@ -1,6 +1,6 @@
 ## Elements of Programming Interviews: Python
 
-_Disclaimer:_ This should now be thought of as a guide of sorts of a way to actually interview prep.
+_Disclaimer:_ This should not be thought of as a guide of sorts of a way to actually interview prep.
 
 Currently iterating through most chapters of EPI to catch up on what I've generally missed.
 Going to create files for individual chapters and one main file to run them when necessary, in an attempt to get clean
